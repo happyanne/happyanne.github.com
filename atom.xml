@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://happyanne.github.com/atom.xml" rel="self"/>
   <link href="http://happyanne.github.com/"/>
-  <updated>2013-06-24T16:23:18+08:00</updated>
+  <updated>2013-06-24T16:57:38+08:00</updated>
   <id>http://happyanne.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ruby blog]]></title>
+    <link href="http://happyanne.github.com/blog/2013/06/24/ruby-blog/"/>
+    <updated>2013-06-24T16:55:00+08:00</updated>
+    <id>http://happyanne.github.com/blog/2013/06/24/ruby-blog</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[My first octopress blog]]></title>
