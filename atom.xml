@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-06-08T17:29:30+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://happyanne.github.com/atom.xml" rel="self"/>
+  <link href="http://happyanne.github.com/"/>
+  <updated>2013-06-24T16:23:18+08:00</updated>
+  <id>http://happyanne.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[My first octopress blog]]></title>
-    <link href="http://yoursite.com/blog/2013/06/08/my-first-octopress-blog/"/>
+    <link href="http://happyanne.github.com/blog/2013/06/08/my-first-octopress-blog/"/>
     <updated>2013-06-08T17:24:00+08:00</updated>
-    <id>http://yoursite.com/blog/2013/06/08/my-first-octopress-blog</id>
+    <id>http://happyanne.github.com/blog/2013/06/08/my-first-octopress-blog</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
